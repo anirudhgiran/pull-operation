@@ -19,6 +19,7 @@ public class PullOperation {
         System.out.println("Pull now");
         System.out.println("Fetch me");
         System.out.println("Hi I am fetching and merging");
+        System.out.println("This is branch");
         
     }
     
