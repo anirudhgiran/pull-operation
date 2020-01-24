@@ -16,6 +16,7 @@ public class PullOperation {
      */
     public static void main(String[] args) {
         System.out.println("Pull operation");
+        System.out.println("Pull now");
         
     }
     
